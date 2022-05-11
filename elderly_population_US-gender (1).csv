@@ -1,0 +1,1684 @@
+,Label,Year,State,value
+0,65 years and over,2010,Alabama,657974
+1,male,2010,Alabama,278873
+2,female,2010,Alabama,379101
+3,65 years and over,2011,Alabama,673790
+4,male,2011,Alabama,285310
+5,female,2011,Alabama,388480
+6,65 years and over,2012,Alabama,700359
+7,male,2012,Alabama,300019
+8,female,2012,Alabama,400340
+9,65 years and over,2013,Alabama,721538
+10,male,2013,Alabama,309005
+11,female,2013,Alabama,412533
+12,65 years and over,2014,Alabama,746512
+13,male,2014,Alabama,322116
+14,female,2014,Alabama,424396
+15,65 years and over,2015,Alabama,761847
+16,male,2015,Alabama,329305
+17,female,2015,Alabama,432542
+18,65 years and over,2016,Alabama,783952
+19,male,2016,Alabama,338770
+20,female,2016,Alabama,445182
+21,65 years and over,2017,Alabama,3780686
+22,male,2017,Alabama,1799902
+23,female,2017,Alabama,1980784
+24,65 years and over,2018,Alabama,3798766
+25,male,2018,Alabama,1805236
+26,female,2018,Alabama,1993530
+27,65 years and over,2019,Alabama,3817588
+28,male,2019,Alabama,1812854
+29,female,2019,Alabama,2004734
+30,65 years and over,2020,Alabama,3800274
+31,male,2020,Alabama,1808099
+32,female,2020,Alabama,1992175
+33,65 years and over,2010,Alaska,53339
+34,male,2010,Alaska,25530
+35,female,2010,Alaska,27809
+36,65 years and over,2011,Alaska,58367
+37,male,2011,Alaska,28415
+38,female,2011,Alaska,29952
+39,65 years and over,2012,Alaska,62119
+40,male,2012,Alaska,29757
+41,female,2012,Alaska,32362
+42,65 years and over,2013,Alaska,65584
+43,male,2013,Alaska,32663
+44,female,2013,Alaska,32921
+45,65 years and over,2014,Alaska,69899
+46,male,2014,Alaska,34342
+47,female,2014,Alaska,35557
+48,65 years and over,2015,Alaska,71008
+49,male,2015,Alaska,35048
+50,female,2015,Alaska,35960
+51,65 years and over,2016,Alaska,75832
+52,male,2016,Alaska,37737
+53,female,2016,Alaska,38095
+54,65 years and over,2017,Alaska,554614
+55,male,2017,Alaska,291715
+56,female,2017,Alaska,262899
+57,65 years and over,2018,Alaska,553978
+58,male,2018,Alaska,289766
+59,female,2018,Alaska,264212
+60,65 years and over,2019,Alaska,551796
+61,male,2019,Alaska,287256
+62,female,2019,Alaska,264540
+63,65 years and over,2020,Alaska,553631
+64,male,2020,Alaska,290360
+65,female,2020,Alaska,263271
+66,65 years and over,2010,Arizona,886795
+67,male,2010,Arizona,403984
+68,female,2010,Arizona,482811
+69,65 years and over,2011,Arizona,923153
+70,male,2011,Arizona,422047
+71,female,2011,Arizona,501106
+72,65 years and over,2012,Arizona,971086
+73,male,2012,Arizona,444228
+74,female,2012,Arizona,526858
+75,65 years and over,2013,Arizona,1018724
+76,male,2013,Arizona,468475
+77,female,2013,Arizona,550249
+78,65 years and over,2014,Arizona,1070757
+79,male,2014,Arizona,492448
+80,female,2014,Arizona,578309
+81,65 years and over,2015,Arizona,1120004
+82,male,2015,Arizona,515072
+83,female,2015,Arizona,604932
+84,65 years and over,2016,Arizona,1169826
+85,male,2016,Arizona,539236
+86,female,2016,Arizona,630590
+87,65 years and over,2017,Arizona,5383542
+88,male,2017,Arizona,2655396
+89,female,2017,Arizona,2728146
+90,65 years and over,2018,Arizona,5529647
+91,male,2018,Arizona,2726338
+92,female,2018,Arizona,2803309
+93,65 years and over,2019,Arizona,5639069
+94,male,2019,Arizona,2782081
+95,female,2019,Arizona,2856988
+96,65 years and over,2020,Arizona,5534419
+97,male,2020,Arizona,2728556
+98,female,2020,Arizona,2805863
+99,65 years and over,2010,Arkansas,420075
+100,male,2010,Arkansas,183461
+101,female,2010,Arkansas,236614
+102,65 years and over,2011,Arkansas,428625
+103,male,2011,Arkansas,187062
+104,female,2011,Arkansas,241563
+105,65 years and over,2012,Arkansas,441107
+106,male,2012,Arkansas,193923
+107,female,2012,Arkansas,247184
+108,65 years and over,2013,Arkansas,453542
+109,male,2013,Arkansas,200380
+110,female,2013,Arkansas,253162
+111,65 years and over,2014,Arkansas,465012
+112,male,2014,Arkansas,206473
+113,female,2014,Arkansas,258539
+114,65 years and over,2015,Arkansas,478114
+115,male,2015,Arkansas,212325
+116,female,2015,Arkansas,265789
+117,65 years and over,2016,Arkansas,485630
+118,male,2016,Arkansas,215607
+119,female,2016,Arkansas,270023
+120,65 years and over,2017,Arkansas,2295846
+121,male,2017,Arkansas,1114008
+122,female,2017,Arkansas,1181838
+123,65 years and over,2018,Arkansas,2309865
+124,male,2018,Arkansas,1118983
+125,female,2018,Arkansas,1190882
+126,65 years and over,2019,Arkansas,2318792
+127,male,2019,Arkansas,1119340
+128,female,2019,Arkansas,1199452
+129,65 years and over,2020,Arkansas,2309041
+130,male,2020,Arkansas,1118805
+131,female,2020,Arkansas,1190236
+132,65 years and over,2010,California,4269495
+133,male,2010,California,1856430
+134,female,2010,California,2413065
+135,65 years and over,2011,California,4398053
+136,male,2011,California,1921723
+137,female,2011,California,2476330
+138,65 years and over,2012,California,4599393
+139,male,2012,California,2018457
+140,female,2012,California,2580936
+141,65 years and over,2013,California,4794108
+142,male,2013,California,2113160
+143,female,2013,California,2680948
+144,65 years and over,2014,California,4990092
+145,male,2014,California,2203388
+146,female,2014,California,2786704
+147,65 years and over,2015,California,5189558
+148,male,2015,California,2298554
+149,female,2015,California,2891004
+150,65 years and over,2016,California,5348439
+151,male,2016,California,2371854
+152,female,2016,California,2976585
+153,65 years and over,2017,California,30479267
+154,male,2017,California,15017561
+155,female,2017,California,15461706
+156,65 years and over,2018,California,30571507
+157,male,2018,California,15074187
+158,female,2018,California,15497320
+159,65 years and over,2019,California,30621159
+160,male,2019,California,15100913
+161,female,2019,California,15520246
+162,65 years and over,2020,California,30389382
+163,male,2020,California,14984186
+164,female,2020,California,15405196
+165,65 years and over,2010,Colorado,551638
+166,male,2010,Colorado,245132
+167,female,2010,Colorado,306506
+168,65 years and over,2011,Colorado,575497
+169,male,2011,Colorado,256679
+170,female,2011,Colorado,318818
+171,65 years and over,2012,Colorado,610939
+172,male,2012,Colorado,273851
+173,female,2012,Colorado,337088
+174,65 years and over,2013,Colorado,644943
+175,male,2013,Colorado,290333
+176,female,2013,Colorado,354610
+177,65 years and over,2014,Colorado,679572
+178,male,2014,Colorado,308984
+179,female,2014,Colorado,370588
+180,65 years and over,2015,Colorado,711572
+181,male,2015,Colorado,323620
+182,female,2015,Colorado,387952
+183,65 years and over,2016,Colorado,743056
+184,male,2016,Colorado,339794
+185,female,2016,Colorado,403262
+186,65 years and over,2017,Colorado,4344795
+187,male,2017,Colorado,2172597
+188,female,2017,Colorado,2172198
+189,65 years and over,2018,Colorado,4428826
+190,male,2018,Colorado,2215430
+191,female,2018,Colorado,2213396
+192,65 years and over,2019,Colorado,4502416
+193,male,2019,Colorado,2259424
+194,female,2019,Colorado,2242992
+195,65 years and over,2020,Colorado,4425895
+196,male,2020,Colorado,2218147
+197,female,2020,Colorado,2207748
+198,65 years and over,2010,Connecticut,508153
+199,male,2010,Connecticut,213434
+200,female,2010,Connecticut,294719
+201,65 years and over,2011,Connecticut,515314
+202,male,2011,Connecticut,217639
+203,female,2011,Connecticut,297675
+204,65 years and over,2012,Connecticut,532024
+205,male,2012,Connecticut,226464
+206,female,2012,Connecticut,305560
+207,65 years and over,2013,Connecticut,544506
+208,male,2013,Connecticut,233290
+209,female,2013,Connecticut,311216
+210,65 years and over,2014,Connecticut,555528
+211,male,2014,Connecticut,239351
+212,female,2014,Connecticut,316177
+213,65 years and over,2015,Connecticut,565283
+214,male,2015,Connecticut,243789
+215,female,2015,Connecticut,321494
+216,65 years and over,2016,Connecticut,576640
+217,male,2016,Connecticut,248844
+218,female,2016,Connecticut,327796
+219,65 years and over,2017,Connecticut,2845906
+220,male,2017,Connecticut,1370411
+221,female,2017,Connecticut,1475495
+222,65 years and over,2018,Connecticut,2837599
+223,male,2018,Connecticut,1367138
+224,female,2018,Connecticut,1470461
+225,65 years and over,2019,Connecticut,2837855
+226,male,2019,Connecticut,1370524
+227,female,2019,Connecticut,1467331
+228,65 years and over,2020,Connecticut,2834965
+229,male,2020,Connecticut,1365953
+230,female,2020,Connecticut,1469012
+231,65 years and over,2010,Delaware,129470
+232,male,2010,Delaware,56707
+233,female,2010,Delaware,72763
+234,65 years and over,2011,Delaware,133912
+235,male,2011,Delaware,58685
+236,female,2011,Delaware,75227
+237,65 years and over,2012,Delaware,140813
+238,male,2012,Delaware,62354
+239,female,2012,Delaware,78459
+240,65 years and over,2013,Delaware,146945
+241,male,2013,Delaware,65197
+242,female,2013,Delaware,81748
+243,65 years and over,2014,Delaware,153759
+244,male,2014,Delaware,68550
+245,female,2014,Delaware,85209
+246,65 years and over,2015,Delaware,160824
+247,male,2015,Delaware,71963
+248,female,2015,Delaware,88861
+249,65 years and over,2016,Delaware,166674
+250,male,2016,Delaware,73929
+251,female,2016,Delaware,92745
+252,65 years and over,2017,Delaware,757626
+253,male,2017,Delaware,361427
+254,female,2017,Delaware,396199
+255,65 years and over,2018,Delaware,764021
+256,male,2018,Delaware,365181
+257,female,2018,Delaware,398840
+258,65 years and over,2019,Delaware,769818
+259,male,2019,Delaware,366941
+260,female,2019,Delaware,402877
+261,65 years and over,2020,Delaware,763472
+262,male,2020,Delaware,364320
+263,female,2020,Delaware,399152
+264,65 years and over,2010,District of Columbia,69427
+265,male,2010,District of Columbia,27668
+266,female,2010,District of Columbia,41759
+267,65 years and over,2011,District of Columbia,69738
+268,male,2011,District of Columbia,27814
+269,female,2011,District of Columbia,41924
+270,65 years and over,2012,District of Columbia,71901
+271,male,2012,District of Columbia,29045
+272,female,2012,District of Columbia,42856
+273,65 years and over,2013,District of Columbia,73961
+274,male,2013,District of Columbia,30167
+275,female,2013,District of Columbia,43794
+276,65 years and over,2014,District of Columbia,74465
+277,male,2014,District of Columbia,30148
+278,female,2014,District of Columbia,44317
+279,65 years and over,2015,District of Columbia,76591
+280,male,2015,District of Columbia,30771
+281,female,2015,District of Columbia,45820
+282,65 years and over,2016,District of Columbia,79097
+283,male,2016,District of Columbia,32467
+284,female,2016,District of Columbia,46630
+285,65 years and over,2017,District of Columbia,569374
+286,male,2017,District of Columbia,266272
+287,female,2017,District of Columbia,303102
+288,65 years and over,2018,District of Columbia,575241
+289,male,2018,District of Columbia,269152
+290,female,2018,District of Columbia,306089
+291,65 years and over,2019,District of Columbia,577848
+292,male,2019,District of Columbia,269578
+293,female,2019,District of Columbia,308270
+294,65 years and over,2020,District of Columbia,575926
+295,male,2020,District of Columbia,269436
+296,female,2020,District of Columbia,306490
+297,65 years and over,2010,Florida,3273199
+298,male,2010,Florida,1457765
+299,female,2010,Florida,1815434
+300,65 years and over,2011,Florida,3359395
+301,male,2011,Florida,1494405
+302,female,2011,Florida,1864990
+303,65 years and over,2012,Florida,3508827
+304,male,2012,Florida,1569705
+305,female,2012,Florida,1939122
+306,65 years and over,2013,Florida,3644283
+307,male,2013,Florida,1632779
+308,female,2013,Florida,2011504
+309,65 years and over,2014,Florida,3790954
+310,male,2014,Florida,1702718
+311,female,2014,Florida,2088236
+312,65 years and over,2015,Florida,3945233
+313,male,2015,Florida,1771351
+314,female,2015,Florida,2173882
+315,65 years and over,2016,Florida,4090764
+316,male,2016,Florida,1839806
+317,female,2016,Florida,2250958
+318,65 years and over,2017,Florida,16783620
+319,male,2017,Florida,8114222
+320,female,2017,Florida,8669398
+321,65 years and over,2018,Florida,17071450
+322,male,2018,Florida,8246984
+323,female,2018,Florida,8824466
+324,65 years and over,2019,Florida,17245782
+325,male,2019,Florida,8334993
+326,female,2019,Florida,8910789
+327,65 years and over,2020,Florida,17002480
+328,male,2020,Florida,8222799
+329,female,2020,Florida,8779681
+330,65 years and over,2010,Georgia,1033898
+331,male,2010,Georgia,437124
+332,female,2010,Georgia,596774
+333,65 years and over,2011,Georgia,1075895
+334,male,2011,Georgia,458625
+335,female,2011,Georgia,617270
+336,65 years and over,2012,Georgia,1139356
+337,male,2012,Georgia,489591
+338,female,2012,Georgia,649765
+339,65 years and over,2013,Georgia,1190773
+340,male,2013,Georgia,513601
+341,female,2013,Georgia,677172
+342,65 years and over,2014,Georgia,1248870
+343,male,2014,Georgia,538933
+344,female,2014,Georgia,709937
+345,65 years and over,2015,Georgia,1302759
+346,male,2015,Georgia,563658
+347,female,2015,Georgia,739101
+348,65 years and over,2016,Georgia,1359134
+349,male,2016,Georgia,589480
+350,female,2016,Georgia,769654
+351,65 years and over,2017,Georgia,7914614
+352,male,2017,Georgia,3791307
+353,female,2017,Georgia,4123307
+354,65 years and over,2018,Georgia,8016182
+355,male,2018,Georgia,3835526
+356,female,2018,Georgia,4180656
+357,65 years and over,2019,Georgia,8114394
+358,male,2019,Georgia,3879247
+359,female,2019,Georgia,4235147
+360,65 years and over,2020,Georgia,8011265
+361,male,2020,Georgia,3837513
+362,female,2020,Georgia,4173752
+363,65 years and over,2010,Hawaii,198126
+364,male,2010,Hawaii,87881
+365,female,2010,Hawaii,110245
+366,65 years and over,2011,Hawaii,203469
+367,male,2011,Hawaii,90132
+368,female,2011,Hawaii,113337
+369,65 years and over,2012,Hawaii,210423
+370,male,2012,Hawaii,93357
+371,female,2012,Hawaii,117066
+372,65 years and over,2013,Hawaii,220108
+373,male,2013,Hawaii,97997
+374,female,2013,Hawaii,122111
+375,65 years and over,2014,Hawaii,228061
+376,male,2014,Hawaii,101561
+377,female,2014,Hawaii,126500
+378,65 years and over,2015,Hawaii,237153
+379,male,2015,Hawaii,106797
+380,female,2015,Hawaii,130356
+381,65 years and over,2016,Hawaii,243541
+382,male,2016,Hawaii,110038
+383,female,2016,Hawaii,133503
+384,65 years and over,2017,Hawaii,1121541
+385,male,2017,Hawaii,558802
+386,female,2017,Hawaii,562739
+387,65 years and over,2018,Hawaii,1117236
+388,male,2018,Hawaii,556287
+389,female,2018,Hawaii,560949
+390,65 years and over,2019,Hawaii,1115685
+391,male,2019,Hawaii,553276
+392,female,2019,Hawaii,562409
+393,65 years and over,2020,Hawaii,1117827
+394,male,2020,Hawaii,556596
+395,female,2020,Hawaii,561231
+396,65 years and over,2010,Idaho,196841
+397,male,2010,Idaho,90640
+398,female,2010,Idaho,106201
+399,65 years and over,2011,Idaho,204286
+400,male,2011,Idaho,94285
+401,female,2011,Idaho,110001
+402,65 years and over,2012,Idaho,211032
+403,male,2012,Idaho,98114
+404,female,2012,Idaho,112918
+405,65 years and over,2013,Idaho,223104
+406,male,2013,Idaho,104172
+407,female,2013,Idaho,118932
+408,65 years and over,2014,Idaho,234979
+409,male,2014,Idaho,110434
+410,female,2014,Idaho,124545
+411,65 years and over,2015,Idaho,243264
+412,male,2015,Idaho,114197
+413,female,2015,Idaho,129067
+414,65 years and over,2016,Idaho,256162
+415,male,2016,Idaho,120817
+416,female,2016,Idaho,135345
+417,65 years and over,2017,Idaho,1273658
+418,male,2017,Idaho,634918
+419,female,2017,Idaho,638740
+420,65 years and over,2018,Idaho,1308838
+421,male,2018,Idaho,652254
+422,female,2018,Idaho,656584
+423,65 years and over,2019,Idaho,1337710
+424,male,2019,Idaho,667208
+425,female,2019,Idaho,670502
+426,65 years and over,2020,Idaho,1309769
+427,male,2020,Idaho,651810
+428,female,2020,Idaho,657959
+429,65 years and over,2010,Illinois,1614822
+430,male,2010,Illinois,678973
+431,female,2010,Illinois,935849
+432,65 years and over,2011,Illinois,1642595
+433,male,2011,Illinois,695077
+434,female,2011,Illinois,947518
+435,65 years and over,2012,Illinois,1695712
+436,male,2012,Illinois,722596
+437,female,2012,Illinois,973116
+438,65 years and over,2013,Illinois,1740088
+439,male,2013,Illinois,746355
+440,female,2013,Illinois,993733
+441,65 years and over,2014,Illinois,1787854
+442,male,2014,Illinois,769310
+443,female,2014,Illinois,1018544
+444,65 years and over,2015,Illinois,1828225
+445,male,2015,Illinois,791259
+446,female,2015,Illinois,1036966
+447,65 years and over,2016,Illinois,1872830
+448,male,2016,Illinois,811520
+449,female,2016,Illinois,1061310
+450,65 years and over,2017,Illinois,9906933
+451,male,2017,Illinois,4815985
+452,female,2017,Illinois,5090948
+453,65 years and over,2018,Illinois,9885278
+454,male,2018,Illinois,4801941
+455,female,2018,Illinois,5083337
+456,65 years and over,2019,Illinois,9857142
+457,male,2019,Illinois,4784829
+458,female,2019,Illinois,5072313
+459,65 years and over,2020,Illinois,9860731
+460,male,2020,Illinois,4789667
+461,female,2020,Illinois,5071064
+462,65 years and over,2010,Indiana,842991
+463,male,2010,Indiana,358426
+464,female,2010,Indiana,484565
+465,65 years and over,2011,Indiana,856492
+466,male,2011,Indiana,365316
+467,female,2011,Indiana,491176
+468,65 years and over,2012,Indiana,889426
+469,male,2012,Indiana,383923
+470,female,2012,Indiana,505503
+471,65 years and over,2013,Indiana,915833
+472,male,2013,Indiana,396601
+473,female,2013,Indiana,519232
+474,65 years and over,2014,Indiana,941494
+475,male,2014,Indiana,409209
+476,female,2014,Indiana,532285
+477,65 years and over,2015,Indiana,965324
+478,male,2015,Indiana,421586
+479,female,2015,Indiana,543738
+480,65 years and over,2016,Indiana,993339
+481,male,2016,Indiana,434753
+482,female,2016,Indiana,558586
+483,65 years and over,2017,Indiana,5092787
+484,male,2017,Indiana,2475148
+485,female,2017,Indiana,2617639
+486,65 years and over,2018,Indiana,5124821
+487,male,2018,Indiana,2493916
+488,female,2018,Indiana,2630905
+489,65 years and over,2019,Indiana,5164798
+490,male,2019,Indiana,2513202
+491,female,2019,Indiana,2651596
+492,65 years and over,2020,Indiana,5125880
+493,male,2020,Indiana,2495915
+494,female,2020,Indiana,2629965
+495,65 years and over,2010,Iowa,452823
+496,male,2010,Iowa,193048
+497,female,2010,Iowa,259775
+498,65 years and over,2011,Iowa,458190
+499,male,2011,Iowa,195680
+500,female,2011,Iowa,262510
+501,65 years and over,2012,Iowa,469618
+502,male,2012,Iowa,203221
+503,female,2012,Iowa,266397
+504,65 years and over,2013,Iowa,479625
+505,male,2013,Iowa,209172
+506,female,2013,Iowa,270453
+507,65 years and over,2014,Iowa,490628
+508,male,2014,Iowa,214736
+509,female,2014,Iowa,275892
+510,65 years and over,2015,Iowa,501152
+511,male,2015,Iowa,221444
+512,female,2015,Iowa,279708
+513,65 years and over,2016,Iowa,513742
+514,male,2016,Iowa,227947
+515,female,2016,Iowa,285795
+516,65 years and over,2017,Iowa,2415361
+517,male,2017,Iowa,1189067
+518,female,2017,Iowa,1226294
+519,65 years and over,2018,Iowa,2422756
+520,male,2018,Iowa,1188114
+521,female,2018,Iowa,1234642
+522,65 years and over,2019,Iowa,2433240
+523,male,2019,Iowa,1199888
+524,female,2019,Iowa,1233352
+525,65 years and over,2020,Iowa,2421524
+526,male,2020,Iowa,1193064
+527,female,2020,Iowa,1228460
+528,65 years and over,2010,Kansas,379035
+529,male,2010,Kansas,163474
+530,female,2010,Kansas,215561
+531,65 years and over,2011,Kansas,381959
+532,male,2011,Kansas,164956
+533,female,2011,Kansas,217003
+534,65 years and over,2012,Kansas,394224
+535,male,2012,Kansas,172418
+536,female,2012,Kansas,221806
+537,65 years and over,2013,Kansas,406225
+538,male,2013,Kansas,176695
+539,female,2013,Kansas,229530
+540,65 years and over,2014,Kansas,417533
+541,male,2014,Kansas,183644
+542,female,2014,Kansas,233889
+543,65 years and over,2015,Kansas,426052
+544,male,2015,Kansas,187878
+545,female,2015,Kansas,238174
+546,65 years and over,2016,Kansas,437671
+547,male,2016,Kansas,195723
+548,female,2016,Kansas,241948
+549,65 years and over,2017,Kansas,2200548
+550,male,2017,Kansas,1086615
+551,female,2017,Kansas,1113933
+552,65 years and over,2018,Kansas,2206359
+553,male,2018,Kansas,1090789
+554,female,2018,Kansas,1115570
+555,65 years and over,2019,Kansas,2213013
+556,male,2019,Kansas,1090733
+557,female,2019,Kansas,1122280
+558,65 years and over,2020,Kansas,2206647
+559,male,2020,Kansas,1090091
+560,female,2020,Kansas,1116556
+561,65 years and over,2010,Kentucky,579521
+562,male,2010,Kentucky,248750
+563,female,2010,Kentucky,330771
+564,65 years and over,2011,Kentucky,593961
+565,male,2011,Kentucky,255092
+566,female,2011,Kentucky,338869
+567,65 years and over,2012,Kentucky,613626
+568,male,2012,Kentucky,265486
+569,female,2012,Kentucky,348140
+570,65 years and over,2013,Kentucky,636058
+571,male,2013,Kentucky,277784
+572,female,2013,Kentucky,358274
+573,65 years and over,2014,Kentucky,653022
+574,male,2014,Kentucky,286408
+575,female,2014,Kentucky,366614
+576,65 years and over,2015,Kentucky,674128
+577,male,2015,Kentucky,295759
+578,female,2015,Kentucky,378369
+579,65 years and over,2016,Kentucky,687525
+580,male,2016,Kentucky,303409
+581,female,2016,Kentucky,384116
+582,65 years and over,2017,Kentucky,3439585
+583,male,2017,Kentucky,1671766
+584,female,2017,Kentucky,1767819
+585,65 years and over,2018,Kentucky,3460621
+586,male,2018,Kentucky,1681046
+587,female,2018,Kentucky,1779575
+588,65 years and over,2019,Kentucky,3465848
+589,male,2019,Kentucky,1683676
+590,female,2019,Kentucky,1782172
+591,65 years and over,2020,Kentucky,3454333
+592,male,2020,Kentucky,1679985
+593,female,2020,Kentucky,1774348
+594,65 years and over,2010,Louisiana,559589
+595,male,2010,Louisiana,238072
+596,female,2010,Louisiana,321517
+597,65 years and over,2011,Louisiana,571296
+598,male,2011,Louisiana,242945
+599,female,2011,Louisiana,328351
+600,65 years and over,2012,Louisiana,597750
+601,male,2012,Louisiana,256835
+602,female,2012,Louisiana,340915
+603,65 years and over,2013,Louisiana,606958
+604,male,2013,Louisiana,263253
+605,female,2013,Louisiana,343705
+606,65 years and over,2014,Louisiana,631170
+607,male,2014,Louisiana,273926
+608,female,2014,Louisiana,357244
+609,65 years and over,2015,Louisiana,653608
+610,male,2015,Louisiana,284257
+611,female,2015,Louisiana,369351
+612,65 years and over,2016,Louisiana,674179
+613,male,2016,Louisiana,294468
+614,female,2016,Louisiana,379711
+615,65 years and over,2017,Louisiana,3575091
+616,male,2017,Louisiana,1719776
+617,female,2017,Louisiana,1855315
+618,65 years and over,2018,Louisiana,3562393
+619,male,2018,Louisiana,1712995
+620,female,2018,Louisiana,1849398
+621,65 years and over,2019,Louisiana,3563908
+622,male,2019,Louisiana,1709791
+623,female,2019,Louisiana,1854117
+624,65 years and over,2020,Louisiana,3567057
+625,male,2020,Louisiana,1718357
+626,female,2020,Louisiana,1848700
+627,65 years and over,2010,Maine,210842
+628,male,2010,Maine,92586
+629,female,2010,Maine,118256
+630,65 years and over,2011,Maine,217308
+631,male,2011,Maine,96014
+632,female,2011,Maine,121294
+633,65 years and over,2012,Maine,225973
+634,male,2012,Maine,101141
+635,female,2012,Maine,124832
+636,65 years and over,2013,Maine,235984
+637,male,2013,Maine,106248
+638,female,2013,Maine,129736
+639,65 years and over,2014,Maine,242564
+640,male,2014,Maine,109804
+641,female,2014,Maine,132760
+642,65 years and over,2015,Maine,250568
+643,male,2015,Maine,113265
+644,female,2015,Maine,137303
+645,65 years and over,2016,Maine,256652
+646,male,2016,Maine,116423
+647,female,2016,Maine,140229
+648,65 years and over,2017,Maine,1081705
+649,male,2017,Maine,524310
+650,female,2017,Maine,557395
+651,65 years and over,2018,Maine,1089852
+652,male,2018,Maine,527338
+653,female,2018,Maine,562514
+654,65 years and over,2019,Maine,1097859
+655,male,2019,Maine,530772
+656,female,2019,Maine,567087
+657,65 years and over,2020,Maine,1089858
+658,male,2020,Maine,527466
+659,female,2020,Maine,562392
+660,65 years and over,2010,Maryland,710252
+661,male,2010,Maryland,300888
+662,female,2010,Maryland,409364
+663,65 years and over,2011,Maryland,731759
+664,male,2011,Maryland,310658
+665,female,2011,Maryland,421101
+666,65 years and over,2012,Maryland,762681
+667,male,2012,Maryland,326004
+668,female,2012,Maryland,436677
+669,65 years and over,2013,Maryland,793868
+670,male,2013,Maryland,340378
+671,female,2013,Maryland,453490
+672,65 years and over,2014,Maryland,822171
+673,male,2014,Maryland,353543
+674,female,2014,Maryland,468628
+675,65 years and over,2015,Maryland,846985
+676,male,2015,Maryland,365364
+677,female,2015,Maryland,481621
+678,65 years and over,2016,Maryland,876448
+679,male,2016,Maryland,378312
+680,female,2016,Maryland,498136
+681,65 years and over,2017,Maryland,4705227
+682,male,2017,Maryland,2247134
+683,female,2017,Maryland,2458093
+684,65 years and over,2018,Maryland,4704363
+685,male,2018,Maryland,2246001
+686,female,2018,Maryland,2458362
+687,65 years and over,2019,Maryland,4713393
+688,male,2019,Maryland,2249586
+689,female,2019,Maryland,2463807
+690,65 years and over,2020,Maryland,4696858
+691,male,2020,Maryland,2241739
+692,female,2020,Maryland,2455119
+693,65 years and over,2010,Massachusetts,906116
+694,male,2010,Massachusetts,378335
+695,female,2010,Massachusetts,527781
+696,65 years and over,2011,Massachusetts,921909
+697,male,2011,Massachusetts,386705
+698,female,2011,Massachusetts,535204
+699,65 years and over,2012,Massachusetts,961031
+700,male,2012,Massachusetts,406909
+701,female,2012,Massachusetts,554122
+702,65 years and over,2013,Massachusetts,990097
+703,male,2013,Massachusetts,422209
+704,female,2013,Massachusetts,567888
+705,65 years and over,2014,Massachusetts,1015577
+706,male,2014,Massachusetts,434098
+707,female,2014,Massachusetts,581479
+708,65 years and over,2015,Massachusetts,1044226
+709,male,2015,Massachusetts,448520
+710,female,2015,Massachusetts,595706
+711,65 years and over,2016,Massachusetts,1074425
+712,male,2016,Massachusetts,463436
+713,female,2016,Massachusetts,610989
+714,65 years and over,2017,Massachusetts,5489235
+715,male,2017,Massachusetts,2630513
+716,female,2017,Massachusetts,2858722
+717,65 years and over,2018,Massachusetts,5535023
+718,male,2018,Massachusetts,2652764
+719,female,2018,Massachusetts,2882259
+720,65 years and over,2019,Massachusetts,5540726
+721,male,2019,Massachusetts,2654903
+722,female,2019,Massachusetts,2885823
+723,65 years and over,2020,Massachusetts,5511033
+724,male,2020,Massachusetts,2640260
+725,female,2020,Massachusetts,2870773
+726,65 years and over,2010,Michigan,1365505
+727,male,2010,Michigan,590052
+728,female,2010,Michigan,775453
+729,65 years and over,2011,Michigan,1387870
+730,male,2011,Michigan,600722
+731,female,2011,Michigan,787148
+732,65 years and over,2012,Michigan,1442623
+733,male,2012,Michigan,629199
+734,female,2012,Michigan,813424
+735,65 years and over,2013,Michigan,1486783
+736,male,2013,Michigan,654585
+737,female,2013,Michigan,832198
+738,65 years and over,2014,Michigan,1531067
+739,male,2014,Michigan,673803
+740,female,2014,Michigan,857264
+741,65 years and over,2015,Michigan,1570641
+742,male,2015,Michigan,695418
+743,female,2015,Michigan,875223
+744,65 years and over,2016,Michigan,1609065
+745,male,2016,Michigan,715138
+746,female,2016,Michigan,893927
+747,65 years and over,2017,Michigan,7786450
+748,male,2017,Michigan,3792561
+749,female,2017,Michigan,3993889
+750,65 years and over,2018,Michigan,7831650
+751,male,2018,Michigan,3817463
+752,female,2018,Michigan,4014187
+753,65 years and over,2019,Michigan,7844035
+754,male,2019,Michigan,3820907
+755,female,2019,Michigan,4023128
+756,65 years and over,2020,Michigan,7812144
+757,male,2020,Michigan,3804719
+758,female,2020,Michigan,4007425
+759,65 years and over,2010,Minnesota,686694
+760,male,2010,Minnesota,299529
+761,female,2010,Minnesota,387165
+762,65 years and over,2011,Minnesota,701083
+763,male,2011,Minnesota,307540
+764,female,2011,Minnesota,393543
+765,65 years and over,2012,Minnesota,729910
+766,male,2012,Minnesota,322566
+767,female,2012,Minnesota,407344
+768,65 years and over,2013,Minnesota,754718
+769,male,2013,Minnesota,334538
+770,female,2013,Minnesota,420180
+771,65 years and over,2014,Minnesota,777833
+772,male,2014,Minnesota,346460
+773,female,2014,Minnesota,431373
+774,65 years and over,2015,Minnesota,804958
+775,male,2015,Minnesota,361152
+776,female,2015,Minnesota,443806
+777,65 years and over,2016,Minnesota,830335
+778,male,2016,Minnesota,373937
+779,female,2016,Minnesota,456398
+780,65 years and over,2017,Minnesota,4278824
+781,male,2017,Minnesota,2116447
+782,female,2017,Minnesota,2162377
+783,65 years and over,2018,Minnesota,4309132
+784,male,2018,Minnesota,2127007
+785,female,2018,Minnesota,2182125
+786,65 years and over,2019,Minnesota,4336963
+787,male,2019,Minnesota,2139845
+788,female,2019,Minnesota,2197118
+789,65 years and over,2020,Minnesota,4300882
+790,male,2020,Minnesota,2125244
+791,female,2020,Minnesota,2175638
+792,65 years and over,2010,Mississippi,382756
+793,male,2010,Mississippi,160465
+794,female,2010,Mississippi,222291
+795,65 years and over,2011,Mississippi,387023
+796,male,2011,Mississippi,163419
+797,female,2011,Mississippi,223604
+798,65 years and over,2012,Mississippi,402724
+799,male,2012,Mississippi,171181
+800,female,2012,Mississippi,231543
+801,65 years and over,2013,Mississippi,414365
+802,male,2013,Mississippi,176332
+803,female,2013,Mississippi,238033
+804,65 years and over,2014,Mississippi,427313
+805,male,2014,Mississippi,182795
+806,female,2014,Mississippi,244518
+807,65 years and over,2015,Mississippi,440961
+808,male,2015,Mississippi,189986
+809,female,2015,Mississippi,250975
+810,65 years and over,2016,Mississippi,449634
+811,male,2016,Mississippi,195265
+812,female,2016,Mississippi,254369
+813,65 years and over,2017,Mississippi,2269547
+814,male,2017,Mississippi,1079184
+815,female,2017,Mississippi,1190363
+816,65 years and over,2018,Mississippi,2280808
+817,male,2018,Mississippi,1085780
+818,female,2018,Mississippi,1195028
+819,65 years and over,2019,Mississippi,2277729
+820,male,2019,Mississippi,1083089
+821,female,2019,Mississippi,1194640
+822,65 years and over,2020,Mississippi,2274614
+823,male,2020,Mississippi,1083183
+824,female,2020,Mississippi,1191431
+825,65 years and over,2010,Missouri,842885
+826,male,2010,Missouri,362211
+827,female,2010,Missouri,480674
+828,65 years and over,2011,Missouri,854604
+829,male,2011,Missouri,370220
+830,female,2011,Missouri,484384
+831,65 years and over,2012,Missouri,884325
+832,male,2012,Missouri,385130
+833,female,2012,Missouri,499195
+834,65 years and over,2013,Missouri,908358
+835,male,2013,Missouri,396821
+836,female,2013,Missouri,511537
+837,65 years and over,2014,Missouri,931890
+838,male,2014,Missouri,408150
+839,female,2014,Missouri,523740
+840,65 years and over,2015,Missouri,950948
+841,male,2015,Missouri,416051
+842,female,2015,Missouri,534897
+843,65 years and over,2016,Missouri,976979
+844,male,2016,Missouri,430358
+845,female,2016,Missouri,546621
+846,65 years and over,2017,Missouri,4725871
+847,male,2017,Missouri,2289651
+848,female,2017,Missouri,2436220
+849,65 years and over,2018,Missouri,4748726
+850,male,2018,Missouri,2298091
+851,female,2018,Missouri,2450635
+852,65 years and over,2019,Missouri,4764733
+853,male,2019,Missouri,2305849
+854,female,2019,Missouri,2458884
+855,65 years and over,2020,Missouri,4744737
+856,male,2020,Missouri,2297802
+857,female,2020,Missouri,2446935
+858,65 years and over,2010,Montana,147494
+859,male,2010,Montana,68130
+860,female,2010,Montana,79364
+861,65 years and over,2011,Montana,150976
+862,male,2011,Montana,70774
+863,female,2011,Montana,80202
+864,65 years and over,2012,Montana,158585
+865,male,2012,Montana,74585
+866,female,2012,Montana,84000
+867,65 years and over,2013,Montana,165080
+868,male,2013,Montana,77518
+869,female,2013,Montana,87562
+870,65 years and over,2014,Montana,170153
+871,male,2014,Montana,80724
+872,female,2014,Montana,89429
+873,65 years and over,2015,Montana,178931
+874,male,2015,Montana,85187
+875,female,2015,Montana,93744
+876,65 years and over,2016,Montana,183881
+877,male,2016,Montana,87767
+878,female,2016,Montana,96114
+879,65 years and over,2017,Montana,820598
+880,male,2017,Montana,410107
+881,female,2017,Montana,410491
+882,65 years and over,2018,Montana,832340
+883,male,2018,Montana,416551
+884,female,2018,Montana,415789
+885,65 years and over,2019,Montana,842254
+886,male,2019,Montana,420243
+887,female,2019,Montana,422011
+888,65 years and over,2020,Montana,833116
+889,male,2020,Montana,416598
+890,female,2020,Montana,416518
+891,65 years and over,2010,Nebraska,247893
+892,male,2010,Nebraska,106361
+893,female,2010,Nebraska,141532
+894,65 years and over,2011,Nebraska,249797
+895,male,2011,Nebraska,108172
+896,female,2011,Nebraska,141625
+897,65 years and over,2012,Nebraska,256972
+898,male,2012,Nebraska,112633
+899,female,2012,Nebraska,144339
+900,65 years and over,2013,Nebraska,264628
+901,male,2013,Nebraska,116179
+902,female,2013,Nebraska,148449
+903,65 years and over,2014,Nebraska,270677
+904,male,2014,Nebraska,119360
+905,female,2014,Nebraska,151317
+906,65 years and over,2015,Nebraska,278691
+907,male,2015,Nebraska,123285
+908,female,2015,Nebraska,155406
+909,65 years and over,2016,Nebraska,285290
+910,male,2016,Nebraska,127682
+911,female,2016,Nebraska,157608
+912,65 years and over,2017,Nebraska,1445479
+913,male,2017,Nebraska,715308
+914,female,2017,Nebraska,730171
+915,65 years and over,2018,Nebraska,1454382
+916,male,2018,Nebraska,717855
+917,female,2018,Nebraska,736527
+918,65 years and over,2019,Nebraska,1459312
+919,male,2019,Nebraska,721812
+920,female,2019,Nebraska,737500
+921,65 years and over,2020,Nebraska,1448723
+922,male,2020,Nebraska,715674
+923,female,2020,Nebraska,733049
+924,65 years and over,2010,Nevada,327133
+925,male,2010,Nevada,154630
+926,female,2010,Nevada,172503
+927,65 years and over,2011,Nevada,339640
+928,male,2011,Nevada,160617
+929,female,2011,Nevada,179023
+930,65 years and over,2012,Nevada,359486
+931,male,2012,Nevada,169640
+932,female,2012,Nevada,189846
+933,65 years and over,2013,Nevada,380832
+934,male,2013,Nevada,178928
+935,female,2013,Nevada,201904
+936,65 years and over,2014,Nevada,400514
+937,male,2014,Nevada,189081
+938,female,2014,Nevada,211433
+939,65 years and over,2015,Nevada,422112
+940,male,2015,Nevada,199464
+941,female,2015,Nevada,222648
+942,65 years and over,2016,Nevada,441761
+943,male,2016,Nevada,208138
+944,female,2016,Nevada,233623
+945,65 years and over,2017,Nevada,2314082
+946,male,2017,Nevada,1154611
+947,female,2017,Nevada,1159471
+948,65 years and over,2018,Nevada,2345172
+949,male,2018,Nevada,1169070
+950,female,2018,Nevada,1176102
+951,65 years and over,2019,Nevada,2389419
+952,male,2019,Nevada,1191972
+953,female,2019,Nevada,1197447
+954,65 years and over,2020,Nevada,2342768
+955,male,2020,Nevada,1168925
+956,female,2020,Nevada,1173843
+957,65 years and over,2010,New Hampshire,179649
+958,male,2010,New Hampshire,79616
+959,female,2010,New Hampshire,100033
+960,65 years and over,2011,New Hampshire,184590
+961,male,2011,New Hampshire,82378
+962,female,2011,New Hampshire,102212
+963,65 years and over,2012,New Hampshire,194097
+964,male,2012,New Hampshire,86832
+965,female,2012,New Hampshire,107265
+966,65 years and over,2013,New Hampshire,202960
+967,male,2013,New Hampshire,90891
+968,female,2013,New Hampshire,112069
+969,65 years and over,2014,New Hampshire,209447
+970,male,2014,New Hampshire,94647
+971,female,2014,New Hampshire,114800
+972,65 years and over,2015,New Hampshire,218357
+973,male,2015,New Hampshire,99408
+974,female,2015,New Hampshire,118949
+975,65 years and over,2016,New Hampshire,226932
+976,male,2016,New Hampshire,103323
+977,female,2016,New Hampshire,123609
+978,65 years and over,2017,New Hampshire,1084600
+979,male,2017,New Hampshire,532324
+980,female,2017,New Hampshire,552276
+981,65 years and over,2018,New Hampshire,1098330
+982,male,2018,New Hampshire,539550
+983,female,2018,New Hampshire,558780
+984,65 years and over,2019,New Hampshire,1103691
+985,male,2019,New Hampshire,542357
+986,female,2019,New Hampshire,561334
+987,65 years and over,2020,New Hampshire,1097513
+988,male,2020,New Hampshire,539775
+989,female,2020,New Hampshire,557738
+990,65 years and over,2010,New Jersey,1191030
+991,male,2010,New Jersey,495412
+992,female,2010,New Jersey,695618
+993,65 years and over,2011,New Jersey,1206778
+994,male,2011,New Jersey,505334
+995,female,2011,New Jersey,701444
+996,65 years and over,2012,New Jersey,1250314
+997,male,2012,New Jersey,526495
+998,female,2012,New Jersey,723819
+999,65 years and over,2013,New Jersey,1284407
+1000,male,2013,New Jersey,543640
+1001,female,2013,New Jersey,740767
+1002,65 years and over,2014,New Jersey,1312125
+1003,male,2014,New Jersey,557485
+1004,female,2014,New Jersey,754640
+1005,65 years and over,2015,New Jersey,1342951
+1006,male,2015,New Jersey,573017
+1007,female,2015,New Jersey,769934
+1008,65 years and over,2016,New Jersey,1372155
+1009,male,2016,New Jersey,587005
+1010,female,2016,New Jersey,785150
+1011,65 years and over,2017,New Jersey,7026848
+1012,male,2017,New Jersey,3386625
+1013,female,2017,New Jersey,3640223
+1014,65 years and over,2018,New Jersey,6957515
+1015,male,2018,New Jersey,3357645
+1016,female,2018,New Jersey,3599870
+1017,65 years and over,2019,New Jersey,6944166
+1018,male,2019,New Jersey,3351015
+1019,female,2019,New Jersey,3593151
+1020,65 years and over,2020,New Jersey,6931965
+1021,male,2020,New Jersey,3343761
+1022,female,2020,New Jersey,3588204
+1023,65 years and over,2010,New Mexico,275387
+1024,male,2010,New Mexico,124367
+1025,female,2010,New Mexico,151020
+1026,65 years and over,2011,New Mexico,283057
+1027,male,2011,New Mexico,127687
+1028,female,2011,New Mexico,155370
+1029,65 years and over,2012,New Mexico,294258
+1030,male,2012,New Mexico,133634
+1031,female,2012,New Mexico,160624
+1032,65 years and over,2013,New Mexico,307157
+1033,male,2013,New Mexico,140836
+1034,female,2013,New Mexico,166321
+1035,65 years and over,2014,New Mexico,318086
+1036,male,2014,New Mexico,144556
+1037,female,2014,New Mexico,173530
+1038,65 years and over,2015,New Mexico,330594
+1039,male,2015,New Mexico,149741
+1040,female,2015,New Mexico,180853
+1041,65 years and over,2016,New Mexico,342061
+1042,male,2016,New Mexico,156095
+1043,female,2016,New Mexico,185966
+1044,65 years and over,2017,New Mexico,1598348
+1045,male,2017,New Mexico,785527
+1046,female,2017,New Mexico,812821
+1047,65 years and over,2018,New Mexico,1615191
+1048,male,2018,New Mexico,793301
+1049,female,2018,New Mexico,821890
+1050,65 years and over,2019,New Mexico,1622979
+1051,male,2019,New Mexico,794464
+1052,female,2019,New Mexico,828515
+1053,65 years and over,2020,New Mexico,1613567
+1054,male,2020,New Mexico,791301
+1055,female,2020,New Mexico,822266
+1056,65 years and over,2010,New York,2624048
+1057,male,2010,New York,1088880
+1058,female,2010,New York,1535168
+1059,65 years and over,2011,New York,2664920
+1060,male,2011,New York,1107309
+1061,female,2011,New York,1557611
+1062,65 years and over,2012,New York,2759461
+1063,male,2012,New York,1155670
+1064,female,2012,New York,1603791
+1065,65 years and over,2013,New York,2829843
+1066,male,2013,New York,1193771
+1067,female,2013,New York,1636072
+1068,65 years and over,2014,New York,2895680
+1069,male,2014,New York,1224971
+1070,female,2014,New York,1670709
+1071,65 years and over,2015,New York,2962447
+1072,male,2015,New York,1261783
+1073,female,2015,New York,1700664
+1074,65 years and over,2016,New York,3030781
+1075,male,2016,New York,1293780
+1076,female,2016,New York,1737001
+1077,65 years and over,2017,New York,15695902
+1078,male,2017,New York,7515307
+1079,female,2017,New York,8180595
+1080,65 years and over,2018,New York,15477524
+1081,male,2018,New York,7411537
+1082,female,2018,New York,8065987
+1083,65 years and over,2019,New York,15431465
+1084,male,2019,New York,7388570
+1085,female,2019,New York,8042895
+1086,65 years and over,2020,New York,15443707
+1087,male,2020,New York,7392810
+1088,female,2020,New York,8050897
+1089,65 years and over,2010,North Carolina,1239719
+1090,male,2010,North Carolina,525146
+1091,female,2010,North Carolina,714573
+1092,65 years and over,2011,North Carolina,1275956
+1093,male,2011,North Carolina,543516
+1094,female,2011,North Carolina,732440
+1095,65 years and over,2012,North Carolina,1346700
+1096,male,2012,North Carolina,579487
+1097,female,2012,North Carolina,767213
+1098,65 years and over,2013,North Carolina,1404718
+1099,male,2013,North Carolina,608465
+1100,female,2013,North Carolina,796253
+1101,65 years and over,2014,North Carolina,1461149
+1102,male,2014,North Carolina,634249
+1103,female,2014,North Carolina,826900
+1104,65 years and over,2015,North Carolina,1515545
+1105,male,2015,North Carolina,658879
+1106,female,2015,North Carolina,856666
+1107,65 years and over,2016,North Carolina,1568591
+1108,male,2016,North Carolina,684988
+1109,female,2016,North Carolina,883603
+1110,65 years and over,2017,North Carolina,7972229
+1111,male,2017,North Carolina,3820732
+1112,female,2017,North Carolina,4151497
+1113,65 years and over,2018,North Carolina,8086762
+1114,male,2018,North Carolina,3875167
+1115,female,2018,North Carolina,4211595
+1116,65 years and over,2019,North Carolina,8194112
+1117,male,2019,North Carolina,3922178
+1118,female,2019,North Carolina,4271934
+1119,65 years and over,2020,North Carolina,8084631
+1120,male,2020,North Carolina,3878705
+1121,female,2020,North Carolina,4205926
+1122,65 years and over,2010,North Dakota,98075
+1123,male,2010,North Dakota,42757
+1124,female,2010,North Dakota,55318
+1125,65 years and over,2011,North Dakota,98456
+1126,male,2011,North Dakota,43002
+1127,female,2011,North Dakota,55454
+1128,65 years and over,2012,North Dakota,100962
+1129,male,2012,North Dakota,44398
+1130,female,2012,North Dakota,56564
+1131,65 years and over,2013,North Dakota,102550
+1132,male,2013,North Dakota,45678
+1133,female,2013,North Dakota,56872
+1134,65 years and over,2014,North Dakota,104679
+1135,male,2014,North Dakota,47346
+1136,female,2014,North Dakota,57333
+1137,65 years and over,2015,North Dakota,107357
+1138,male,2015,North Dakota,48192
+1139,female,2015,North Dakota,59165
+1140,65 years and over,2016,North Dakota,109851
+1141,male,2016,North Dakota,49533
+1142,female,2016,North Dakota,60318
+1143,65 years and over,2017,North Dakota,582257
+1144,male,2017,North Dakota,299237
+1145,female,2017,North Dakota,283020
+1146,65 years and over,2018,North Dakota,585363
+1147,male,2018,North Dakota,299924
+1148,female,2018,North Dakota,285439
+1149,65 years and over,2019,North Dakota,585356
+1150,male,2019,North Dakota,298181
+1151,female,2019,North Dakota,287175
+1152,65 years and over,2020,North Dakota,582365
+1153,male,2020,North Dakota,297945
+1154,female,2020,North Dakota,284420
+1155,65 years and over,2010,Ohio,1625778
+1156,male,2010,Ohio,686924
+1157,female,2010,Ohio,938854
+1158,65 years and over,2011,Ohio,1647834
+1159,male,2011,Ohio,700686
+1160,female,2011,Ohio,947148
+1161,65 years and over,2012,Ohio,1707568
+1162,male,2012,Ohio,732380
+1163,female,2012,Ohio,975188
+1164,65 years and over,2013,Ohio,1751963
+1165,male,2013,Ohio,754572
+1166,female,2013,Ohio,997391
+1167,65 years and over,2014,Ohio,1796868
+1168,male,2014,Ohio,777731
+1169,female,2014,Ohio,1019137
+1170,65 years and over,2015,Ohio,1839554
+1171,male,2015,Ohio,798960
+1172,female,2015,Ohio,1040594
+1173,65 years and over,2016,Ohio,1884914
+1174,male,2016,Ohio,822082
+1175,female,2016,Ohio,1062832
+1176,65 years and over,2017,Ohio,9056612
+1177,male,2017,Ohio,4377403
+1178,female,2017,Ohio,4679209
+1179,65 years and over,2018,Ohio,9099006
+1180,male,2018,Ohio,4405595
+1181,female,2018,Ohio,4693411
+1182,65 years and over,2019,Ohio,9114253
+1183,male,2019,Ohio,4411835
+1184,female,2019,Ohio,4702418
+1185,65 years and over,2020,Ohio,9081287
+1186,male,2020,Ohio,4395027
+1187,female,2020,Ohio,4686260
+1188,65 years and over,2010,Oklahoma,509789
+1189,male,2010,Oklahoma,222231
+1190,female,2010,Oklahoma,287558
+1191,65 years and over,2011,Oklahoma,517390
+1192,male,2011,Oklahoma,226695
+1193,female,2011,Oklahoma,290695
+1194,65 years and over,2012,Oklahoma,536007
+1195,male,2012,Oklahoma,236164
+1196,female,2012,Oklahoma,299843
+1197,65 years and over,2013,Oklahoma,547927
+1198,male,2013,Oklahoma,242923
+1199,female,2013,Oklahoma,305004
+1200,65 years and over,2014,Oklahoma,561568
+1201,male,2014,Oklahoma,248744
+1202,female,2014,Oklahoma,312824
+1203,65 years and over,2015,Oklahoma,576031
+1204,male,2015,Oklahoma,255984
+1205,female,2015,Oklahoma,320047
+1206,65 years and over,2016,Oklahoma,588292
+1207,male,2016,Oklahoma,260969
+1208,female,2016,Oklahoma,327323
+1209,65 years and over,2017,Oklahoma,2969381
+1210,male,2017,Oklahoma,1454053
+1211,female,2017,Oklahoma,1515328
+1212,65 years and over,2018,Oklahoma,2986759
+1213,male,2018,Oklahoma,1462478
+1214,female,2018,Oklahoma,1524281
+1215,65 years and over,2019,Oklahoma,3004742
+1216,male,2019,Oklahoma,1470313
+1217,female,2019,Oklahoma,1534429
+1218,65 years and over,2020,Oklahoma,2992972
+1219,male,2020,Oklahoma,1468003
+1220,female,2020,Oklahoma,1524969
+1221,65 years and over,2010,Oregon,534893
+1222,male,2010,Oregon,237365
+1223,female,2010,Oregon,297528
+1224,65 years and over,2011,Oregon,553121
+1225,male,2011,Oregon,247470
+1226,female,2011,Oregon,305651
+1227,65 years and over,2012,Oregon,581693
+1228,male,2012,Oregon,261312
+1229,female,2012,Oregon,320381
+1230,65 years and over,2013,Oregon,604596
+1231,male,2013,Oregon,273968
+1232,female,2013,Oregon,330628
+1233,65 years and over,2014,Oregon,634226
+1234,male,2014,Oregon,287658
+1235,female,2014,Oregon,346568
+1236,65 years and over,2015,Oregon,659778
+1237,male,2015,Oregon,301459
+1238,female,2015,Oregon,358319
+1239,65 years and over,2016,Oregon,688888
+1240,male,2016,Oregon,314742
+1241,female,2016,Oregon,374146
+1242,65 years and over,2017,Oregon,3269002
+1243,male,2017,Oregon,1605612
+1244,female,2017,Oregon,1663390
+1245,65 years and over,2018,Oregon,3318125
+1246,male,2018,Oregon,1632062
+1247,female,2018,Oregon,1686063
+1248,65 years and over,2019,Oregon,3354921
+1249,male,2019,Oregon,1647172
+1250,female,2019,Oregon,1707749
+1251,65 years and over,2020,Oregon,3309270
+1252,male,2020,Oregon,1625930
+1253,female,2020,Oregon,1683340
+1254,65 years and over,2010,Pennsylvania,1965505
+1255,male,2010,Pennsylvania,824507
+1256,female,2010,Pennsylvania,1140998
+1257,65 years and over,2011,Pennsylvania,1982418
+1258,male,2011,Pennsylvania,836104
+1259,female,2011,Pennsylvania,1146314
+1260,65 years and over,2012,Pennsylvania,2041930
+1261,male,2012,Pennsylvania,867210
+1262,female,2012,Pennsylvania,1174720
+1263,65 years and over,2013,Pennsylvania,2089972
+1264,male,2013,Pennsylvania,895678
+1265,female,2013,Pennsylvania,1194294
+1266,65 years and over,2014,Pennsylvania,2134099
+1267,male,2014,Pennsylvania,918006
+1268,female,2014,Pennsylvania,1216093
+1269,65 years and over,2015,Pennsylvania,2181193
+1270,male,2015,Pennsylvania,942140
+1271,female,2015,Pennsylvania,1239053
+1272,65 years and over,2016,Pennsylvania,2221761
+1273,male,2016,Pennsylvania,965024
+1274,female,2016,Pennsylvania,1256737
+1275,65 years and over,2017,Pennsylvania,10140566
+1276,male,2017,Pennsylvania,4905803
+1277,female,2017,Pennsylvania,5234763
+1278,65 years and over,2018,Pennsylvania,10159443
+1279,male,2018,Pennsylvania,4919474
+1280,female,2018,Pennsylvania,5239969
+1281,65 years and over,2019,Pennsylvania,10169664
+1282,male,2019,Pennsylvania,4925483
+1283,female,2019,Pennsylvania,5244181
+1284,65 years and over,2020,Pennsylvania,10145303
+1285,male,2020,Pennsylvania,4912920
+1286,female,2020,Pennsylvania,5232383
+1287,65 years and over,2010,Rhode Island,152183
+1288,male,2010,Rhode Island,62652
+1289,female,2010,Rhode Island,89531
+1290,65 years and over,2011,Rhode Island,153677
+1291,male,2011,Rhode Island,63649
+1292,female,2011,Rhode Island,90028
+1293,65 years and over,2012,Rhode Island,158825
+1294,male,2012,Rhode Island,66241
+1295,female,2012,Rhode Island,92584
+1296,65 years and over,2013,Rhode Island,162864
+1297,male,2013,Rhode Island,68895
+1298,female,2013,Rhode Island,93969
+1299,65 years and over,2014,Rhode Island,167180
+1300,male,2014,Rhode Island,70911
+1301,female,2014,Rhode Island,96269
+1302,65 years and over,2015,Rhode Island,170532
+1303,male,2015,Rhode Island,72890
+1304,female,2015,Rhode Island,97642
+1305,65 years and over,2016,Rhode Island,174055
+1306,male,2016,Rhode Island,74550
+1307,female,2016,Rhode Island,99505
+1308,65 years and over,2017,Rhode Island,852667
+1309,male,2017,Rhode Island,407807
+1310,female,2017,Rhode Island,444860
+1311,65 years and over,2018,Rhode Island,853407
+1312,male,2018,Rhode Island,410324
+1313,female,2018,Rhode Island,443083
+1314,65 years and over,2019,Rhode Island,855786
+1315,male,2019,Rhode Island,412642
+1316,female,2019,Rhode Island,443144
+1317,65 years and over,2020,Rhode Island,852354
+1318,male,2020,Rhode Island,409342
+1319,female,2020,Rhode Island,443012
+1320,65 years and over,2010,South Carolina,634930
+1321,male,2010,South Carolina,273959
+1322,female,2010,South Carolina,360971
+1323,65 years and over,2011,South Carolina,654887
+1324,male,2011,South Carolina,284165
+1325,female,2011,South Carolina,370722
+1326,65 years and over,2012,South Carolina,694776
+1327,male,2012,South Carolina,302837
+1328,female,2012,South Carolina,391939
+1329,65 years and over,2013,South Carolina,725107
+1330,male,2013,South Carolina,319000
+1331,female,2013,South Carolina,406107
+1332,65 years and over,2014,South Carolina,761583
+1333,male,2014,South Carolina,337368
+1334,female,2014,South Carolina,424215
+1335,65 years and over,2015,South Carolina,793954
+1336,male,2015,South Carolina,352949
+1337,female,2015,South Carolina,441005
+1338,65 years and over,2016,South Carolina,830147
+1339,male,2016,South Carolina,367187
+1340,female,2016,South Carolina,462960
+1341,65 years and over,2017,South Carolina,3922649
+1342,male,2017,South Carolina,1875631
+1343,female,2017,South Carolina,2047018
+1344,65 years and over,2018,South Carolina,3979718
+1345,male,2018,South Carolina,1899602
+1346,female,2018,South Carolina,2080116
+1347,65 years and over,2019,South Carolina,4036414
+1348,male,2019,South Carolina,1922777
+1349,female,2019,South Carolina,2113637
+1350,65 years and over,2020,South Carolina,3982912
+1351,male,2020,South Carolina,1902834
+1352,female,2020,South Carolina,2080078
+1353,65 years and over,2010,South Dakota,117907
+1354,male,2010,South Dakota,51802
+1355,female,2010,South Dakota,66105
+1356,65 years and over,2011,South Dakota,120025
+1357,male,2011,South Dakota,52584
+1358,female,2011,South Dakota,67441
+1359,65 years and over,2012,South Dakota,121092
+1360,male,2012,South Dakota,54096
+1361,female,2012,South Dakota,66996
+1362,65 years and over,2013,South Dakota,124503
+1363,male,2013,South Dakota,55766
+1364,female,2013,South Dakota,68737
+1365,65 years and over,2014,South Dakota,129354
+1366,male,2014,South Dakota,58617
+1367,female,2014,South Dakota,70737
+1368,65 years and over,2015,South Dakota,134513
+1369,male,2015,South Dakota,61290
+1370,female,2015,South Dakota,73223
+1371,65 years and over,2016,South Dakota,137569
+1372,male,2016,South Dakota,62165
+1373,female,2016,South Dakota,75404
+1374,65 years and over,2017,South Dakota,656438
+1375,male,2017,South Dakota,329648
+1376,female,2017,South Dakota,326790
+1377,65 years and over,2018,South Dakota,667772
+1378,male,2018,South Dakota,334365
+1379,female,2018,South Dakota,333407
+1380,65 years and over,2019,South Dakota,669390
+1381,male,2019,South Dakota,335932
+1382,female,2019,South Dakota,333458
+1383,65 years and over,2020,South Dakota,663589
+1384,male,2020,South Dakota,332951
+1385,female,2020,South Dakota,330638
+1386,65 years and over,2010,Tennessee,859922
+1387,male,2010,Tennessee,368000
+1388,female,2010,Tennessee,491922
+1389,65 years and over,2011,Tennessee,879033
+1390,male,2011,Tennessee,378137
+1391,female,2011,Tennessee,500896
+1392,65 years and over,2012,Tennessee,920721
+1393,male,2012,Tennessee,399811
+1394,female,2012,Tennessee,520910
+1395,65 years and over,2013,Tennessee,950190
+1396,male,2013,Tennessee,415575
+1397,female,2013,Tennessee,534615
+1398,65 years and over,2014,Tennessee,986813
+1399,male,2014,Tennessee,432278
+1400,female,2014,Tennessee,554535
+1401,65 years and over,2015,Tennessee,1015780
+1402,male,2015,Tennessee,448323
+1403,female,2015,Tennessee,567457
+1404,65 years and over,2016,Tennessee,1045255
+1405,male,2016,Tennessee,460325
+1406,female,2016,Tennessee,584930
+1407,65 years and over,2017,Tennessee,5207732
+1408,male,2017,Tennessee,2506343
+1409,female,2017,Tennessee,2701389
+1410,65 years and over,2018,Tennessee,5260635
+1411,male,2018,Tennessee,2527405
+1412,female,2018,Tennessee,2733230
+1413,65 years and over,2019,Tennessee,5318422
+1414,male,2019,Tennessee,2554545
+1415,female,2019,Tennessee,2763877
+1416,65 years and over,2020,Tennessee,5264378
+1417,male,2020,Tennessee,2533438
+1418,female,2020,Tennessee,2730940
+1419,65 years and over,2010,Texas,2618943
+1420,male,2010,Texas,1142219
+1421,female,2010,Texas,1476724
+1422,65 years and over,2011,Texas,2707825
+1423,male,2011,Texas,1186843
+1424,female,2011,Texas,1520982
+1425,65 years and over,2012,Texas,2837722
+1426,male,2012,Texas,1250189
+1427,female,2012,Texas,1587533
+1428,65 years and over,2013,Texas,2966527
+1429,male,2013,Texas,1311549
+1430,female,2013,Texas,1654978
+1431,65 years and over,2014,Texas,3096013
+1432,male,2014,Texas,1370329
+1433,female,2014,Texas,1725684
+1434,65 years and over,2015,Texas,3221507
+1435,male,2015,Texas,1428111
+1436,female,2015,Texas,1793396
+1437,65 years and over,2016,Texas,3352843
+1438,male,2016,Texas,1488306
+1439,female,2016,Texas,1864537
+1440,65 years and over,2017,Texas,20939433
+1441,male,2017,Texas,10298806
+1442,female,2017,Texas,10640627
+1443,65 years and over,2018,Texas,21302361
+1444,male,2018,Texas,10473771
+1445,female,2018,Texas,10828590
+1446,65 years and over,2019,Texas,21599250
+1447,male,2019,Texas,10618690
+1448,female,2019,Texas,10980560
+1449,65 years and over,2020,Texas,21253960
+1450,male,2020,Texas,10456881
+1451,female,2020,Texas,10797079
+1452,65 years and over,2010,Utah,250800
+1453,male,2010,Utah,113608
+1454,female,2010,Utah,137192
+1455,65 years and over,2011,Utah,258324
+1456,male,2011,Utah,117978
+1457,female,2011,Utah,140346
+1458,65 years and over,2012,Utah,271882
+1459,male,2012,Utah,124284
+1460,female,2012,Utah,147598
+1461,65 years and over,2013,Utah,282680
+1462,male,2013,Utah,129891
+1463,female,2013,Utah,152789
+1464,65 years and over,2014,Utah,294979
+1465,male,2014,Utah,135519
+1466,female,2014,Utah,159460
+1467,65 years and over,2015,Utah,307842
+1468,male,2015,Utah,142599
+1469,female,2015,Utah,165243
+1470,65 years and over,2016,Utah,319490
+1471,male,2016,Utah,147579
+1472,female,2016,Utah,171911
+1473,65 years and over,2017,Utah,2176739
+1474,male,2017,Utah,1086466
+1475,female,2017,Utah,1090273
+1476,65 years and over,2018,Utah,2229274
+1477,male,2018,Utah,1113904
+1478,female,2018,Utah,1115370
+1479,65 years and over,2019,Utah,2275650
+1480,male,2019,Utah,1134329
+1481,female,2019,Utah,1141321
+1482,65 years and over,2020,Utah,2223670
+1483,male,2020,Utah,1110602
+1484,female,2020,Utah,1113068
+1485,65 years and over,2010,Vermont,91231
+1486,male,2010,Vermont,40380
+1487,female,2010,Vermont,50851
+1488,65 years and over,2011,Vermont,93641
+1489,male,2011,Vermont,41852
+1490,female,2011,Vermont,51789
+1491,65 years and over,2012,Vermont,98489
+1492,male,2012,Vermont,44353
+1493,female,2012,Vermont,54136
+1494,65 years and over,2013,Vermont,102658
+1495,male,2013,Vermont,46685
+1496,female,2013,Vermont,55973
+1497,65 years and over,2014,Vermont,106655
+1498,male,2014,Vermont,48941
+1499,female,2014,Vermont,57714
+1500,65 years and over,2015,Vermont,110084
+1501,male,2015,Vermont,50292
+1502,female,2015,Vermont,59792
+1503,65 years and over,2016,Vermont,113600
+1504,male,2016,Vermont,51633
+1505,female,2016,Vermont,61967
+1506,65 years and over,2017,Vermont,505902
+1507,male,2017,Vermont,246999
+1508,female,2017,Vermont,258903
+1509,65 years and over,2018,Vermont,510772
+1510,male,2018,Vermont,249177
+1511,female,2018,Vermont,261595
+1512,65 years and over,2019,Vermont,510430
+1513,male,2019,Vermont,250316
+1514,female,2019,Vermont,260114
+1515,65 years and over,2020,Vermont,508708
+1516,male,2020,Vermont,248625
+1517,female,2020,Vermont,260083
+1518,65 years and over,2010,Virginia,980275
+1519,male,2010,Virginia,423376
+1520,female,2010,Virginia,556899
+1521,65 years and over,2011,Virginia,1010335
+1522,male,2011,Virginia,437722
+1523,female,2011,Virginia,572613
+1524,65 years and over,2012,Virginia,1062133
+1525,male,2012,Virginia,461528
+1526,female,2012,Virginia,600605
+1527,65 years and over,2013,Virginia,1104809
+1528,male,2013,Virginia,485042
+1529,female,2013,Virginia,619767
+1530,65 years and over,2014,Virginia,1146846
+1531,male,2014,Virginia,502880
+1532,female,2014,Virginia,643966
+1533,65 years and over,2015,Virginia,1187444
+1534,male,2015,Virginia,524430
+1535,female,2015,Virginia,663014
+1536,65 years and over,2016,Virginia,1228045
+1537,male,2016,Virginia,541718
+1538,female,2016,Virginia,686327
+1539,65 years and over,2017,Virginia,6601939
+1540,male,2017,Virginia,3210622
+1541,female,2017,Virginia,3391317
+1542,65 years and over,2018,Virginia,6648045
+1543,male,2018,Virginia,3232257
+1544,female,2018,Virginia,3415788
+1545,65 years and over,2019,Virginia,6677914
+1546,male,2019,Virginia,3246462
+1547,female,2019,Virginia,3431452
+1548,65 years and over,2020,Virginia,6640761
+1549,male,2020,Virginia,3231233
+1550,female,2020,Virginia,3409528
+1551,65 years and over,2010,Washington,830378
+1552,male,2010,Washington,370406
+1553,female,2010,Washington,459972
+1554,65 years and over,2011,Washington,861243
+1555,male,2011,Washington,385813
+1556,female,2011,Washington,475430
+1557,65 years and over,2012,Washington,907618
+1558,male,2012,Washington,410159
+1559,female,2012,Washington,497459
+1560,65 years and over,2013,Washington,950766
+1561,male,2013,Washington,430073
+1562,female,2013,Washington,520693
+1563,65 years and over,2014,Washington,992516
+1564,male,2014,Washington,450109
+1565,female,2014,Washington,542407
+1566,65 years and over,2015,Washington,1036626
+1567,male,2015,Washington,473605
+1568,female,2015,Washington,563021
+1569,65 years and over,2016,Washington,1078813
+1570,male,2016,Washington,491452
+1571,female,2016,Washington,587361
+1572,65 years and over,2017,Washington,5759010
+1573,male,2017,Washington,2859698
+1574,female,2017,Washington,2899312
+1575,65 years and over,2018,Washington,5873652
+1576,male,2018,Washington,2920360
+1577,female,2018,Washington,2953292
+1578,65 years and over,2019,Washington,5951928
+1579,male,2019,Washington,2958683
+1580,female,2019,Washington,2993245
+1581,65 years and over,2020,Washington,5858996
+1582,male,2020,Washington,2913529
+1583,female,2020,Washington,2945467
+1584,65 years and over,2010,West Virginia,298606
+1585,male,2010,West Virginia,129863
+1586,female,2010,West Virginia,168743
+1587,65 years and over,2011,West Virginia,301317
+1588,male,2011,West Virginia,131915
+1589,female,2011,West Virginia,169402
+1590,65 years and over,2012,West Virginia,311104
+1591,male,2012,West Virginia,138189
+1592,female,2012,West Virginia,172915
+1593,65 years and over,2013,West Virginia,320013
+1594,male,2013,West Virginia,142880
+1595,female,2013,West Virginia,177133
+1596,65 years and over,2014,West Virginia,329055
+1597,male,2014,West Virginia,147184
+1598,female,2014,West Virginia,181871
+1599,65 years and over,2015,West Virginia,336361
+1600,male,2015,West Virginia,151128
+1601,female,2015,West Virginia,185233
+1602,65 years and over,2016,West Virginia,343775
+1603,male,2016,West Virginia,154814
+1604,female,2016,West Virginia,188961
+1605,65 years and over,2017,West Virginia,1442454
+1606,male,2017,West Virginia,705573
+1607,female,2017,West Virginia,736881
+1608,65 years and over,2018,West Virginia,1442607
+1609,male,2018,West Virginia,707039
+1610,female,2018,West Virginia,735568
+1611,65 years and over,2019,West Virginia,1433329
+1612,male,2019,West Virginia,702698
+1613,female,2019,West Virginia,730631
+1614,65 years and over,2020,West Virginia,1442209
+1615,male,2020,West Virginia,706753
+1616,female,2020,West Virginia,735456
+1617,65 years and over,2010,Wisconsin,779510
+1618,male,2010,Wisconsin,339123
+1619,female,2010,Wisconsin,440387
+1620,65 years and over,2011,Wisconsin,792214
+1621,male,2011,Wisconsin,345356
+1622,female,2011,Wisconsin,446858
+1623,65 years and over,2012,Wisconsin,824030
+1624,male,2012,Wisconsin,362535
+1625,female,2012,Wisconsin,461495
+1626,65 years and over,2013,Wisconsin,848607
+1627,male,2013,Wisconsin,377060
+1628,female,2013,Wisconsin,471547
+1629,65 years and over,2014,Wisconsin,875720
+1630,male,2014,Wisconsin,390893
+1631,female,2014,Wisconsin,484827
+1632,65 years and over,2015,Wisconsin,900763
+1633,male,2015,Wisconsin,403895
+1634,female,2015,Wisconsin,496868
+1635,65 years and over,2016,Wisconsin,927261
+1636,male,2016,Wisconsin,419230
+1637,female,2016,Wisconsin,508031
+1638,65 years and over,2017,Wisconsin,4516122
+1639,male,2017,Wisconsin,2228211
+1640,female,2017,Wisconsin,2287911
+1641,65 years and over,2018,Wisconsin,4541463
+1642,male,2018,Wisconsin,2240074
+1643,female,2018,Wisconsin,2301389
+1644,65 years and over,2019,Wisconsin,4559022
+1645,male,2019,Wisconsin,2247843
+1646,female,2019,Wisconsin,2311179
+1647,65 years and over,2020,Wisconsin,4532654
+1648,male,2020,Wisconsin,2237115
+1649,female,2020,Wisconsin,2295539
+1650,65 years and over,2010,Wyoming,70186
+1651,male,2010,Wyoming,32493
+1652,female,2010,Wyoming,37693
+1653,65 years and over,2011,Wyoming,72029
+1654,male,2011,Wyoming,33323
+1655,female,2011,Wyoming,38706
+1656,65 years and over,2012,Wyoming,75050
+1657,male,2012,Wyoming,35127
+1658,female,2012,Wyoming,39923
+1659,65 years and over,2013,Wyoming,77554
+1660,male,2013,Wyoming,36564
+1661,female,2013,Wyoming,40990
+1662,65 years and over,2014,Wyoming,80332
+1663,male,2014,Wyoming,37553
+1664,female,2014,Wyoming,42779
+1665,65 years and over,2015,Wyoming,82547
+1666,male,2015,Wyoming,39255
+1667,female,2015,Wyoming,43292
+1668,65 years and over,2016,Wyoming,87583
+1669,male,2016,Wyoming,41283
+1670,female,2016,Wyoming,46300
+1671,65 years and over,2017,Wyoming,441253
+1672,male,2017,Wyoming,224212
+1673,female,2017,Wyoming,217041
+1674,65 years and over,2018,Wyoming,444641
+1675,male,2018,Wyoming,224675
+1676,female,2018,Wyoming,219966
+1677,65 years and over,2019,Wyoming,444570
+1678,male,2019,Wyoming,226129
+1679,female,2019,Wyoming,218441
+1680,65 years and over,2020,Wyoming,446548
+1681,male,2020,Wyoming,227027
+1682,female,2020,Wyoming,219521
