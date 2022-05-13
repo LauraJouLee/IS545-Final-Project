@@ -6,23 +6,25 @@
 
 		<title>IS545 Final Project-Jou Lee</title>
 
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/reset.css">
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/reveal.css">
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/theme/white.css">
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/5.11.2/css/font-awesome.min.css">
-		<link rel="stylesheet" href="https://unpkg.com/reveal.js-copycode@1.0.1/plugin/copycode/copycode.css">
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/moon.css">
 
-		<!-- Theme used for syntax highlighting of code -->
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
-		<link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
+		<script src="https://cdn.jsdelivr.net/npm/vega@5.21.0"></script>
+		<script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
+		<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.20.2"></script>
+		<script src="https://cdn.jsdelivr.net/npm/d3@6"></script>
 
-		<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/reveal.min.js"></script>
-		<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/markdown/markdown.js"></script>
-		<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/highlight/monokai.js"></script>
-		<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/notes/notes.js"></script>
-		<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/math/math.js"></script>
 
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
 	</head>
+	<style>
+		mark { 
+		  background-color: gainsboro;
+		  color: black;
+		}
+		</style>
 	<body>
 		<div class="reveal">
 			<div class="slides">
@@ -39,15 +41,40 @@
 				<section>
 					<section data-markdown>
 						<textarea data-template>
-							## Introduction							
+							## Introduction	
+							---
+							<font size="4">
+							According to the World Health Organization, “Global average life expectancy increased by 5.5 years between 2000 and 2016, the fastest increase since the 1960s.” 
+							Thanks to the development of health care, hygiene, and improved medical care, people are now expected to live into their eighties and beyond. 
+							Longevity is not just the number signifying the age of a person. 
+							<b><mark> Longevity is for the elderly to live more purposeful, productive, and satisfying lives.</mark></b>
+							However, growing numbers of aging citizens might leave a large vacancy in job markets as they retire. 
+							Common heath issues for elderly people, such as arthritis, osteoporosis, Alzheimer's disease, and dementia, might eat up a large number of the government healthcare expenditure. 
+							Considering the increase in the U.S.'s elderly population, the government and businesses are preparing for appropriate measures to reduce unpleasant effects.
+							</font>
 							---
 							## By 2030, every Baby Boomer will be age 65 or older, which means that 1 out of every 5 U.S. citizens will be of retirement age.
 							---
 							## Overview
 							---
-							## Purpose
+							<font size="4">
+							<b>As the aging population increased in the U.S., it would hit the economy like a "ton of bricks".</b> Total national health expenditures are expected to reach $5 billion by 2025. National health expenditures as a percentage of GDP hit more than 15% in 2016, and that figure will climb to 19.4% of GDP (approximately $6 trillion) in 2027, according to annual estimates from the Center for Medicare and Medicaid Services.
+							Rising patient volumes among the general population, but particularly senior citizens, will exacerbate U.S. providers' existing labor shortage.
+							Labor makes up about 60% of hospitals' noncapital costs and is the largest driver of operating expenses, according to Deloitte.
+							By 2025, US providers will face a collective shortage of about 500,000 home health aides, 100,000 nursing assistants, and 29,000 nurse practitioners, Mercer estimates.
+							<b><mark>The numbers indicate that there are still miles to go in preparing for an aging population.</mark></b> The demand for healthcare is growing so is the senior care businesses, e.g. at-home digital healthcare services and smart devices.
+							</font>
 							---
-							## Dataset
+							## Purpose
+							A brief understanding of the aging population structure from 2010-2020 in the U.S.
+							Numbers will also be broke down into states level to observe the disparities.
+							---
+							## Data Source
+							<ul>
+								<li> Collected 11 datasets from <a href="https://data.census.gov/cedsci/">U.S. Census Bureau</a> ACS Demographic and Household Estimates. 2010-2020</li>
+								<li> The license of this dataset is free and could be used without restriction.</li>
+							<ul>
+
 						</textarea>
 					</section>
 				</section>
@@ -55,47 +82,115 @@
 				<section>
 					<section data-markdown>
 						<textarea data-template>
-							## Result
+							## Methodology
 							---
 							## Data Cleaning
+							Merged and cleaned them into one file. 
+							Keep only the needed columns.
+							---
 							<section>
+								STEP 1: Collect values from 11 datasets.
 								<pre><code data-trim data-noescape>
-							  (
-								def function(f):
-									state = f.iloc[:, 1:204:2]
+								def num(x):
+									state = x.iloc[:, 1:204:4]
 									state.columns = state.columns.str.replace('!!','_', regex=True)
-									age = state.iloc[25:28:]
-									age['Label'] = ['65 years and over', 'male', 'female']
-									age.insert(0, 'Label', age.pop('Label'))
-									return age
-							  )
+									state.columns = state.columns.str.replace('_Estimate','', regex=True)
+									value = state.iloc[25:28:]
+									value['Label'] = ['65 years and over','male', 'female']
+									value.insert(0, 'Label', value.pop('Label'))
+									return value
 								</code></pre>
 							  </section>
 
 							  <section>
+								Step 2: Clean and format the data into one csv file.
 								<pre><code data-trim data-noescape>
-							  (
 								year_list =[]
-								aging_population = pd.concat([function(f_2010),function(f_2011),function(f_2012),function(f_2013),function(f_2014),function(f_2015),function(f_2016),function(f_2017),function(f_2018),function(f_2019),function(f_2020)], ignore_index=True)
+								age_num = pd.concat([num(f_2010),num(f_2011),num(f_2012),num(f_2013),num(f_2014),num(f_2015),num(f_2016),num(f_2017),num(f_2018),num(f_2019),num(f_2020)], ignore_index=True)
 								for i in range(2010,2021,1):
 									year_list.extend((i,i,i))
-								aging_population['Year'] = year_list
-								aging_population.insert(1, 'Year', aging_population.pop('Year'))
-							  )
+								age_num['Year'] = year_list
+								age_num.insert(1, 'Year', age_num.pop('Year'))
+								number = age_num.melt(id_vars=['Label','Year'], ignore_index=True)
 								</code></pre>
 							  </section>
 							---
-							## Visualization
+							## Dataset
+							<a href="https://github.com/LauraJouLee/IS545-Final-Project/tree/main/Original%20Dataset">Original Datasets</a>
+							---
+							### The merged/cleaned dataset
+							<img data-src="https://raw.githubusercontent.com/LauraJouLee/IS545-Final-Project/main/Cleaned%20Dataset.png" height="400"/>
+							<br><a href="https://github.com/LauraJouLee/IS545-Final-Project/blob/3f1be9ec15193e6bef3c247491197468a0f5fc9c/elderly_population_US-state_id.csv">Link</a></br>
+							
 						</textarea>
 					</section>
-				</section>			
-			
+				</section>
+
+				<section>
+					<section data-markdown>
+						<textarea data-template>
+						  ## Visualization
+						</textarea>
+					  </section>
+
+					<section>
+						<h3>Elderly Population Growth by Year</h3>
+						<p style="text-align: left; font-size:50%;">Total Elderly Population Growth<p>
+						<img data-src="https://raw.githubusercontent.com/LauraJouLee/IS545-Final-Project/main/Viz/visualization%20(1).png"  width="1800"/>
+						<p style="text-align: left; font-size:50%;">Female Elderly Population Growth<p>
+						<img data-src="https://raw.githubusercontent.com/LauraJouLee/IS545-Final-Project/main/Viz/visualization%20(2).png"  width="1800"/>	
+						<p style="text-align: left; font-size:50%;">Male Elderly Population Growth<p>
+						<img data-src="https://raw.githubusercontent.com/LauraJouLee/IS545-Final-Project/main/Viz/visualization%20(3).png"  width="1800"/>	
+					</section>
+
+					<section>
+						<h3>Elderly Population Growth by State</h3>
+						<p style="font-size:30%;">
+							On the left side, select the states you wish to compare. 
+							Brush through the bar graph to see the differences in gender on the right side.
+						</p>
+						<div id="vis-1"></div>
+							<script>
+								const vis1 = "https://raw.githubusercontent.com/LauraJouLee/IS545-Final-Project/main/Viz/visualization.vl%20(3).json";
+								vegaEmbed("#vis-1", vis1)
+									// result.view provides access to the Vega View API
+								.then(result => console.log(result))
+								.catch(console.warn);
+							</script>
+					</section>
+
+				</section>
+
+				<section>
+					<section data-markdown>
+						<textarea data-template>
+						## Conclusion & Suggestion
+						---
+						Population in the U.S. has risen significantly. The disparity between states exists in elderly population number and gender. The disparity might be caused by economic factors such as state GDP and household income. Although the project did not include the factor, it would be interesting to compare other factors with the current demographic visualization result. Race, which was recorded in the original 11 datasets, would also be a potential variable to visualize.
+						</textarea>
+					  </section>
+				</section>
+
 				<section data-markdown>
 					<textarea data-template>
-					  ## Progress & Expectation
+						## Reference
+						<ul>
+						<font size="4">
+							<li> https://www.mckinsey.com/industries/public-and-social-sector/our-insights/planning-for-an-aging-population </li>
+							<li> https://www.insiderintelligence.com/insights/aging-population-healthcare/</li>
+							<li> https://www.reuters.com/world/us/aging-population-hit-us-economy-like-ton-bricks-us-commerce-secretary-2021-07-12/</li>
+							<li> https://money.cnn.com/2018/05/04/news/economy/health-care-workers-shortage/index.html </li>
+							<li> https://data.census.gov/cedsci/</li>
+						</font>
+						</ul>
 					</textarea>
 				</section>
 
+				<section data-markdown>
+					<textarea data-template>
+					  ## Thank you
+					</textarea>
+				</section>
 			</div>
 		</div>
 
