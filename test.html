@@ -36,14 +36,16 @@
 
 				<section data-markdown>
 					<textarea data-template>
-					 ## Aging Population & Challenges in the U.S
-					 IS545 Final Project 
-					 <br>Jou Lee<br>
+					  ## Aging Population & Challenges 
+					  ## in the U.S
+					  IS545 Final Project 
+					  <br>Jou Lee<br>
 					</textarea>
 				  </section>
 
+
 				<section>
-					
+
                     <section>                    
                         <h2>Introduction</h2>	
                     </section>
@@ -96,18 +98,21 @@
 				</section>
 
 				<section>
-					<section data-markdown>
-						<textarea data-template>
-							## Methodology
-							---
-							## Data Cleaning
+					<section>
+                        <h2>Methodology</h2>
+                    </section>
+					<section>
+                        <h2>Data Cleaning</h2>
+                        <p style="text-align: justify; font-size:80%;">
 							Merged and cleaned them into one file. 
 							Keep only the needed columns.
-							---
-							<section>
-								STEP 1: Collect values from 11 datasets.
-								<pre><code data-trim data-noescape>
-								def num(x):
+                        </p>
+                    </section>
+
+                    <section>
+						<b>STEP 1: Collect values from 11 datasets.</b>
+							<pre><code data-trim data-noescape>
+							    def num(x):
 									state = x.iloc[:, 1:204:4]
 									state.columns = state.columns.str.replace('!!','_', regex=True)
 									state.columns = state.columns.str.replace('_Estimate','', regex=True)
@@ -115,39 +120,38 @@
 									value['Label'] = ['65 years and over','male', 'female']
 									value.insert(0, 'Label', value.pop('Label'))
 									return value
-								</code></pre>
-							  </section>
+							</code></pre>
+					</section>
 
-							  <section>
-								Step 2: Clean and format the data into one csv file.
-								<pre><code data-trim data-noescape>
-								year_list =[]
+					<section>
+						<b>STEP 2: Clean and format the data into one csv file.</b>
+							<pre><code data-trim data-noescape>
+				    			year_list =[]
 								age_num = pd.concat([num(f_2010),num(f_2011),num(f_2012),num(f_2013),num(f_2014),num(f_2015),num(f_2016),num(f_2017),num(f_2018),num(f_2019),num(f_2020)], ignore_index=True)
 								for i in range(2010,2021,1):
 									year_list.extend((i,i,i))
 								age_num['Year'] = year_list
 								age_num.insert(1, 'Year', age_num.pop('Year'))
 								number = age_num.melt(id_vars=['Label','Year'], ignore_index=True)
-								</code></pre>
-							  </section>
-							---
-							## Dataset
-							<a href="https://github.com/LauraJouLee/IS545-Final-Project/tree/main/Original%20Dataset">Original Datasets</a>
-							---
-							### The merged/cleaned dataset
-							<img data-src="https://raw.githubusercontent.com/LauraJouLee/IS545-Final-Project/main/Cleaned%20Dataset.png" height="400"/>
-							<br><a href="https://github.com/LauraJouLee/IS545-Final-Project/blob/3f1be9ec15193e6bef3c247491197468a0f5fc9c/elderly_population_US-state_id.csv">Link</a></br>
-							
-						</textarea>
+							</code></pre>
+	 			    </section>
+
+                    <section>
+                        <h2>Dataset</h2>
+						<a href="https://github.com/LauraJouLee/IS545-Final-Project/tree/main/Original%20Dataset">Original Datasets</a>
+                    </section>
+
+                    <section>
+                        <h2>The merged/cleaned dataset</h2>
+						<img data-src="https://raw.githubusercontent.com/LauraJouLee/IS545-Final-Project/main/Cleaned%20Dataset.png" height="400"/>
+						<br><a href="https://github.com/LauraJouLee/IS545-Final-Project/blob/3f1be9ec15193e6bef3c247491197468a0f5fc9c/elderly_population_US-state_id.csv">Link</a></br>
 					</section>
 				</section>
 
 				<section>
-					<section data-markdown>
-						<textarea data-template>
-						  ## Visualization
-						</textarea>
-					  </section>
+					<section>
+                        <h2>Visualization</h2>
+					</section>
 
 					<section>
 						<h3>Elderly Population Growth by Year</h3>
@@ -174,17 +178,13 @@
 								.catch(console.warn);
 							</script>
 					</section>
-
 				</section>
 
 				<section>
-					<section data-markdown>
-						<textarea data-template>
-						## Conclusion & Suggestion
-						---
+					<h2>Conclusion & Suggestion</h2>
+                    <p style="text-align: justify; font-size:60%;">
 						Population in the U.S. has risen significantly. The disparity between states exists in elderly population number and gender. The disparity might be caused by economic factors such as state GDP and household income. Although the project did not include the factor, it would be interesting to compare other factors with the current demographic visualization result. Race, which was recorded in the original 11 datasets, would also be a potential variable to visualize.
-						</textarea>
-					  </section>
+                    </p>
 				</section>
 
 				<section data-markdown>
